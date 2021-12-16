@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sivanshu Sharma
+- 👋 Hi, I’m Shivanshu Sharma
 - 🌱 I’m currently learning ...
 - 📫 You can reach me by shivanshu1177@chitkara.edu.in
 
