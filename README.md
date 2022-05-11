@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shivanshu Sharma
 - 🌱 I’m currently learning ...
-- 📫 You can reach me by shivanshu1177@chitkara.edu.in
+- 📫 You can reach me by sharma.shivanshu010@gmail.com
 
 <!---
 shivanshu1177/shivanshu1177 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
