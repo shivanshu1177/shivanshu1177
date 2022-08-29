@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/Shivans73850498" target="blank"><img src="https://img.shields.io/twitter/follow/@shivans73850498?logo=twitter&style=for-the-badge" alt="@shivans73850498" /></a> </p>
 
-- 🔭 I’m currently working on **My skills**
+- 🔭 I’m currently working on **My skills.**
 
-- 🌱 I’m currently learning **Data Structures**
+- 🌱 I’m currently learning **Data Structures.**
 
 - 📫 How to reach me **sharma.shivanshu010@gmail.com**
 
-- ⚡ Fun fact **I lift weights**
+- ⚡ Fun fact **I lift weights.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
