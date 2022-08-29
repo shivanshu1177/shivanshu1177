@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **my skills.**
 
-- 🌱 I’m currently learning **Data Structures.**
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 📫 How to reach me **sharma.shivanshu010@gmail.com**
 
