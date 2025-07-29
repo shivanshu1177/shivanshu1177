@@ -7,11 +7,11 @@
 
 - 🔭 Working on **C++, Python, Linux, PosrgreSQL, CI/CD**
 
-- 🌱 Currently learning **Deep Learning, TensorFlow, Project Management**
+- 🌱 Currently learning **GenAI Applications, Project Management**
 
-- 📫 Email **shivanshu.0710@gmail.com**
+- 📫 Email **shivanshu.prof@gmail.com**
 
-- ⚡ Projects-  **Speech-emotion recognition, Trading-System**
+- ⚡ Projects-  **Credit Analysis, Trading-System**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
