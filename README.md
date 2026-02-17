@@ -10,7 +10,7 @@
 
 - 📫 Email **shivanshu.prof@gmail.com**
 
-- ⚡ Projects-  **Credit Analysis, Trading-System**
+- ⚡ Projects-  **Ultra low-latency market data processing system, Trading-System**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
